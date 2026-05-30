@@ -1,14 +1,6 @@
 # Skycast
 
-Weather. Nothing else.
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
----
-
-Vanilla HTML, CSS, JS. No frameworks. No build step. Just open and use.
+Weather-by-City name
 
 **What it does** — search any city, get temp, wind, humidity, visibility. That's it.
 
@@ -51,6 +43,3 @@ skycast/
 - Pure JS — no libraries
 - CSS backdrop-filter for glass UI
 
----
-
-MIT
